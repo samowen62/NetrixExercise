@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\netcoreapp1.1\SchoolProject.deps.json
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\netcoreapp1.1\SchoolProject.runtimeconfig.json
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\netcoreapp1.1\SchoolProject.runtimeconfig.dev.json
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\netcoreapp1.1\SchoolProject.dll
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\bin\Debug\netcoreapp1.1\SchoolProject.pdb
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\netcoreapp1.1\SchoolProject.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\netcoreapp1.1\SchoolProject.AssemblyInfo.cs
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\netcoreapp1.1\SchoolProject.dll
+c:\users\owner\documents\visual studio 2017\Projects\SchoolProject\SchoolProject\obj\Debug\netcoreapp1.1\SchoolProject.pdb
